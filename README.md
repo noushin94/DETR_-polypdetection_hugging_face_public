@@ -14,11 +14,7 @@ Our polyp detection system employs the DETR model, a transformer-based architect
 - Integration with Hugging Face for advanced model management.
 - Use of Roboflow datasets to enhance training and validation processes.
 
-## Visuals
 
-Below are some example outputs demonstrating the detection capabilities of our system:
-
-![Polyp Detection Example](path/to/polyp_detection_example.png)
 
 
 
