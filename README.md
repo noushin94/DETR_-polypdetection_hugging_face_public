@@ -19,6 +19,8 @@ Our goal is to develop a model that not only performs object detection in a sing
 ### Self-Attention in DETR
 
 The DETR model integrates a transformer-based encoder-decoder architecture that employs self-attention to capture spatial relationships and contextual information, enabling the model to process images holistically. This capability is particularly beneficial in medical imaging, where understanding the full context of an image is crucial.
+<img width="331" alt="image" src="https://github.com/user-attachments/assets/2e3e2a44-e37c-4315-a470-a2a1633f3d81">
+
 
 ### Components of DETR
 
@@ -30,13 +32,3 @@ The DETR model integrates a transformer-based encoder-decoder architecture that 
 
 The model uses the Hungarian algorithm to match detected objects with ground truth annotations efficiently, facilitating one-step object detection without the need for multiple processing stages.
 
-## Repository Structure
-
-```plaintext
-├── data                    # Dataset files
-├── models                  # Trained models and model definitions
-├── notebooks               # Jupyter notebooks for demonstrations and testing
-├── src                     # Source code for training and inference
-├── tests                   # Test cases for automated testing of the code
-├── LICENSE
-└── README.md
