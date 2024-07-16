@@ -1,4 +1,4 @@
-ChatGPT
+
 Polyp Detection
 
 Automatic image detection in colonoscopic images has been a challenging problem for years. Due to the varying sizes and diverse appearances of polyps, along with differing detection techniques and opinions from clinicians, computer-aided systems have been utilized to facilitate polyp detection and ensure patients benefit from accurate and precise recognition. Numerous articles have explored different neural networks for object detection, ranging from RCNNs to the latest iterations of the well-known You Only Look Once (YOLO) model, aiming to achieve the highest accuracy in this demanding area.
