@@ -43,14 +43,6 @@ The model uses the **Hungarian algorithm** to match detected objects with ground
 This implementation leverages pretrained models and tools from **[Hugging Face](https://huggingface.co/)** to enhance the development process, allowing for efficient and scalable model training and deployment.
 
 
-## 📁 Repository Structure
-
-```bash
-data/              # Contains the dataset used for training and testing
-models/            # Includes the DETR model architecture
-scripts/           # Contains scripts for training, evaluation, and preprocessing
-notebooks/         # Jupyter notebooks for exploratory data analysis and visualization
-results/           # Stores results and performance metrics of the model
 
 
 
